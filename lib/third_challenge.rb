@@ -33,8 +33,8 @@
 #       :heroine_friends => []
 #    }
 #   }
-# 
-# 
+#
+#
 # end
 
 def third_challenge
